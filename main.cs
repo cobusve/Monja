@@ -1,5 +1,5 @@
 
-void main(argc, argv)
+void main(int *argc, int *argv)
 {
 
   print("Hello World");
